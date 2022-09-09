@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/livereact/static/css/main.8c473153.css",
+    "main.js": "/livereact/static/js/main.e5885978.js",
+    "index.html": "/livereact/index.html",
+    "main.8c473153.css.map": "/livereact/static/css/main.8c473153.css.map",
+    "main.e5885978.js.map": "/livereact/static/js/main.e5885978.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c473153.css",
+    "static/js/main.e5885978.js"
+  ]
+}
